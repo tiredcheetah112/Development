@@ -1,0 +1,108 @@
+[
+    {
+      "name": "Air Jordan 9 Retro NRG",
+      "brand": "Nike",
+      "description": "Four classic chocolate chip cookies",
+      "price": 225.00,
+      "image": "images/figure_1.jpeg"
+    },
+    {
+      "name": "Nike Dunk Low",
+      "brand": "Nike",
+      "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+      "price": 100.00,
+      "image": "images/figure_2.png"
+    },
+    {
+      "name": "Nike ACG Lowcate",
+      "brand": "Nike",
+      "description": "A fluffy steamed bun with a savory egg filling",
+      "price": 115.00,
+      "image": "images/figure_3.png"
+    },
+    {
+      "name": "Nike ACG Air Mada",
+      "brand": "Nike",
+      "description": "Two soft steamed buns filled with gooey purple taro filling",
+      "price": 135.00,
+      "image": "images/figure_4.png"
+    },
+    {
+      "name": "Nike Air Force 1 Low Metro",
+      "brand": "Nike",
+      "description": "A rich fudge brownie drizzled with chocolate ganache",
+      "price": 150.00,
+      "image": "images/figure_5.png"
+    },
+    {
+      "name": "Nike Air Force 1 '07 Fresh",
+      "brand": "Nike",
+      "description": "A box of three macarons in assorted flavors",
+      "price": 140.00,
+      "image": "images/figure_6.png"
+    },
+    {
+      "name": "Samba Vegan Shoes",
+      "brand": "Adidas",
+      "description": "A loaf of fresh-baked multigrain bread",
+      "price": 65.00,
+      "image": "images/figure_7.png"
+    },
+    {
+      "name": "Forum Low Shoes",
+      "brand": "Adidas",
+      "description": "A classic butter croissant with a flaky crust",
+      "price": 95.00,
+      "image": "images/figure_8.png"
+    },
+    {
+      "name": "NMD_R1 Shoes",
+      "brand": "Adidas",
+      "description": "A slice of toast with a pat of butter",
+      "price": 150.00,
+      "image": "images/figure_9.png"
+    },
+    {
+      "name": "Ultraboost 5.0 DNA Shoes",
+      "brand": "Adidas",
+      "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+      "price": 190.00,
+      "image": "images/figure_10.png"
+    },
+    {
+      "name": "Predator Edge .1 Firm Ground Soccer",
+      "brand": "Adidas",
+      "description": "A flaky pastry shell filled with a sweet egg custard",
+      "price": 250.00,
+      "image": "images/figure_11.png"
+    },
+    {
+      "name": "Copa Sense.1 Turf Soccer Shoes",
+      "brand": "Adidas",
+      "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+      "price": 130.00,
+      "image": "images/figure_12.png"
+    },
+    {
+      "name": "Sketchers Arch Fit",
+      "brand": "Sketchers",
+      "description": "A soft gingerbread cookie with a sweet icing glaze",
+      "price": 55.00,
+      "image": "images/figure_13.jpeg"
+    },
+    {
+      "name": "Sketchers GOwalk 5",
+      "brand": "Sketchers",
+      "description": "A slice of classic New York cheesecake topped with strawberry",
+      "price": 58.00,
+      "image": "images/figure_14.jpeg"
+    },
+    {
+      "name": "Sketchers D'Lites",
+      "brand": "Sketchers",
+      "description": "Light and airy pâte à choux filled with sweet whipped cream",
+      "price": 60.00,
+      "image": "images/figure_15.jpeg"
+    }
+  ]
+  
